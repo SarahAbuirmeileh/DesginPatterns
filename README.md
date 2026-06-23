@@ -20,3 +20,11 @@ This is the main class that demonstrates the usage of the SystemClock singleton.
 
 ### Methods: ⚙️
 main(String[] args): The entry point of the application. It creates two references to SystemClock using getInstance() and prints the current system time. It also checks if both references point to the same instance.
+
+
+
+## Author
+
+**Sarah Abu Irmeileh**
+- GitHub: [@SarahAbuirmeileh](https://github.com/SarahAbuirmeileh)
+- LinkedIn: [Sarah Abu Irmeileh](https://www.linkedin.com/in/sarah-abu-irmeileh)
